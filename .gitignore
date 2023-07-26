@@ -1,0 +1,6 @@
+/.idea/
+.settings
+target
+.classpath
+bin
+test-output
